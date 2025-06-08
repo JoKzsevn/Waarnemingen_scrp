@@ -1,0 +1,309 @@
+2025-04-01 00:00:20,432 - INFO - Start API-aanroep voor item: Black-crowned Night Heron
+2025-04-01 00:00:20,436 - INFO - Start API-aanroep voor item: Purple Heron
+2025-04-01 00:00:20,444 - INFO - Start API-aanroep voor item: Eurasian Bittern
+2025-04-01 00:00:20,701 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:20,708 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:20,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:21,530 - ERROR - Fout bij het verwerken van item Eurasian Bittern: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:21,530 - INFO - Start API-aanroep voor item: Red-crested Pochard
+2025-04-01 00:00:21,756 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:22,556 - ERROR - Fout bij het verwerken van item Black-crowned Night Heron: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:22,558 - INFO - Start API-aanroep voor item: Black-necked Grebe
+2025-04-01 00:00:22,815 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:22,969 - ERROR - Fout bij het verwerken van item Red-crested Pochard: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:22,969 - INFO - Start API-aanroep voor item: White Stork
+2025-04-01 00:00:23,174 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:23,847 - ERROR - Fout bij het verwerken van item Black-necked Grebe: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:23,847 - INFO - Start API-aanroep voor item: Little Grebe
+2025-04-01 00:00:24,212 - ERROR - Fout bij het verwerken van item Purple Heron: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:24,214 - INFO - Start API-aanroep voor item: Eurasian Spoonbill
+2025-04-01 00:00:24,240 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:24,641 - ERROR - Fout bij het verwerken van item White Stork: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:24,645 - INFO - Start API-aanroep voor item: Marsh Tit
+2025-04-01 00:00:24,716 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:26,070 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:26,371 - ERROR - Fout bij het verwerken van item Eurasian Spoonbill: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:26,373 - INFO - Start API-aanroep voor item: Common Redstart
+2025-04-01 00:00:26,587 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:27,224 - ERROR - Fout bij het verwerken van item Little Grebe: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:27,224 - INFO - Start API-aanroep voor item: European Golden Plover
+2025-04-01 00:00:27,377 - ERROR - Fout bij het verwerken van item Marsh Tit: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:27,379 - INFO - Start API-aanroep voor item: Western Yellow Wagtail
+2025-04-01 00:00:27,571 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:27,770 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:28,719 - ERROR - Fout bij het verwerken van item Common Redstart: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:28,721 - INFO - Start API-aanroep voor item: Goldcrest
+2025-04-01 00:00:29,200 - ERROR - Fout bij het verwerken van item European Golden Plover: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:29,201 - INFO - Start API-aanroep voor item: Eurasian Jay
+2025-04-01 00:00:29,302 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:29,493 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:30,405 - ERROR - Fout bij het verwerken van item Western Yellow Wagtail: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:30,408 - INFO - Start API-aanroep voor item: Common Swift
+2025-04-01 00:00:31,115 - ERROR - Fout bij het verwerken van item Eurasian Jay: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:31,115 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:31,118 - INFO - Start API-aanroep voor item: Great Crested Grebe
+2025-04-01 00:00:31,243 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:31,244 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2025-04-01 00:00:31,910 - ERROR - Fout bij het verwerken van item Goldcrest: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:31,910 - INFO - Start API-aanroep voor item: Pearly Underwing
+2025-04-01 00:00:32,044 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:32,044 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:00:34,281 - ERROR - Fout bij het verwerken van item Common Swift: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:34,281 - INFO - Start API-aanroep voor item: White-line Dart
+2025-04-01 00:00:34,423 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:34,423 - INFO - Retrying request to /openai/v1/chat/completions in 14.000000 seconds
+2025-04-01 00:00:35,365 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:35,365 - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-04-01 00:00:41,168 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:41,168 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-04-01 00:00:48,404 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:48,585 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:48,729 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:00:49,303 - ERROR - Fout bij het verwerken van item Pearly Underwing: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:49,305 - INFO - Start API-aanroep voor item: White Satin Moth
+2025-04-01 00:00:49,421 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:49,421 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:00:49,972 - ERROR - Fout bij het verwerken van item Great Crested Grebe: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:49,975 - INFO - Start API-aanroep voor item: Sulphur Pearl
+2025-04-01 00:00:50,011 - ERROR - Fout bij het verwerken van item White-line Dart: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:00:50,012 - INFO - Start API-aanroep voor item: Northern Raccoon
+2025-04-01 00:00:50,140 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:50,141 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-04-01 00:00:50,143 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:50,143 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-04-01 00:00:52,625 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:00:52,631 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:01:01,877 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:02,428 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:02,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:03,878 - ERROR - Fout bij het verwerken van item Northern Raccoon: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:03,878 - INFO - Start API-aanroep voor item: 
+2025-04-01 00:01:03,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:03,991 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:01:04,427 - ERROR - Fout bij het verwerken van item Sulphur Pearl: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:04,427 - INFO - Start API-aanroep voor item: Hybrid Waterlilies
+2025-04-01 00:01:04,565 - ERROR - Fout bij het verwerken van item White Satin Moth: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:04,566 - INFO - Start API-aanroep voor item: Sulphur Tubic
+2025-04-01 00:01:04,584 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:04,587 - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2025-04-01 00:01:04,687 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:04,687 - INFO - Retrying request to /openai/v1/chat/completions in 14.000000 seconds
+2025-04-01 00:01:07,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:07,139 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-04-01 00:01:19,388 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:19,803 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:19,832 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:20,657 - ERROR - Fout bij het verwerken van item : 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:20,657 - INFO - Start API-aanroep voor item: Tree Damsel Bug
+2025-04-01 00:01:20,770 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:20,770 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:01:21,324 - ERROR - Fout bij het verwerken van item Hybrid Waterlilies: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:21,327 - INFO - Start API-aanroep voor item: Fly unknown/Mosquito unknown/Midge unknown
+2025-04-01 00:01:21,452 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:21,453 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-04-01 00:01:22,842 - ERROR - Fout bij het verwerken van item Sulphur Tubic: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:22,847 - INFO - Start API-aanroep voor item: Golden Chervil
+2025-04-01 00:01:22,995 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:22,995 - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-04-01 00:01:23,900 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:23,900 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-04-01 00:01:28,571 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:28,572 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-04-01 00:01:35,788 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:36,299 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:36,323 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:38,021 - ERROR - Fout bij het verwerken van item Fly unknown/Mosquito unknown/Midge unknown: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:38,021 - INFO - Start API-aanroep voor item: Annual Pearlwort
+2025-04-01 00:01:38,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:38,139 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2025-04-01 00:01:38,862 - ERROR - Fout bij het verwerken van item Tree Damsel Bug: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:38,862 - INFO - Start API-aanroep voor item: Slender Pearlwort
+2025-04-01 00:01:39,005 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:39,007 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:01:39,493 - ERROR - Fout bij het verwerken van item Golden Chervil: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:39,493 - INFO - Start API-aanroep voor item: Round Goby
+2025-04-01 00:01:39,650 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:39,652 - INFO - Retrying request to /openai/v1/chat/completions in 16.000000 seconds
+2025-04-01 00:01:42,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:42,325 - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-04-01 00:01:48,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:48,137 - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2025-04-01 00:01:55,565 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:01:56,944 - ERROR - Fout bij het verwerken van item Annual Pearlwort: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:01:56,946 - INFO - Start API-aanroep voor item: Red Swamp Crayfish
+2025-04-01 00:01:57,072 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:01:57,073 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:02:00,794 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:02,656 - ERROR - Fout bij het verwerken van item Red Swamp Crayfish: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:02,656 - INFO - Start API-aanroep voor item: Rose Campion
+2025-04-01 00:02:02,833 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:02,833 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:02:02,931 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:02,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:03,665 - ERROR - Fout bij het verwerken van item Round Goby: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:03,665 - INFO - Start API-aanroep voor item: Saltmarsh Rush
+2025-04-01 00:02:03,814 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:03,814 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-04-01 00:02:04,228 - ERROR - Fout bij het verwerken van item Slender Pearlwort: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:04,228 - INFO - Start API-aanroep voor item: Codling moth
+2025-04-01 00:02:04,358 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:04,359 - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+2025-04-01 00:02:05,935 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:05,935 - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2025-04-01 00:02:09,947 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:09,949 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2025-04-01 00:02:14,177 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:14,207 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:15,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:15,962 - ERROR - Fout bij het verwerken van item Saltmarsh Rush: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:15,962 - INFO - Start API-aanroep voor item: Compass jellyfish
+2025-04-01 00:02:16,005 - ERROR - Fout bij het verwerken van item Rose Campion: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:16,005 - INFO - Start API-aanroep voor item: Plant unknown
+2025-04-01 00:02:16,113 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:16,113 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:02:16,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:16,140 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:02:16,957 - ERROR - Fout bij het verwerken van item Codling moth: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:16,959 - INFO - Start API-aanroep voor item: Spotted Flycatcher
+2025-04-01 00:02:17,086 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:17,086 - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-04-01 00:02:25,252 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:25,253 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-04-01 00:02:25,274 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:25,275 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-04-01 00:02:30,381 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:30,457 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:30,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:31,576 - ERROR - Fout bij het verwerken van item Compass jellyfish: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:31,576 - INFO - Start API-aanroep voor item: Common Greenshank
+2025-04-01 00:02:31,693 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:31,697 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:02:32,381 - ERROR - Fout bij het verwerken van item Spotted Flycatcher: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:32,381 - INFO - Start API-aanroep voor item: Eurasian Bullfinch
+2025-04-01 00:02:32,539 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:32,540 - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2025-04-01 00:02:32,666 - ERROR - Fout bij het verwerken van item Plant unknown: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:32,669 - INFO - Start API-aanroep voor item: Canada Goose
+2025-04-01 00:02:32,831 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:32,831 - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-04-01 00:02:34,806 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:34,807 - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-04-01 00:02:40,674 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:40,675 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-04-01 00:02:46,027 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:46,066 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:46,941 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:02:48,348 - ERROR - Fout bij het verwerken van item Common Greenshank: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:48,349 - INFO - Start API-aanroep voor item: Common Whitethroat
+2025-04-01 00:02:48,492 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:48,494 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2025-04-01 00:02:48,556 - ERROR - Fout bij het verwerken van item Canada Goose: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:48,556 - INFO - Start API-aanroep voor item: Meadow Pipit
+2025-04-01 00:02:48,686 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:48,687 - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+2025-04-01 00:02:48,913 - ERROR - Fout bij het verwerken van item Eurasian Bullfinch: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:02:48,918 - INFO - Start API-aanroep voor item: Great Spotted Woodpecker
+2025-04-01 00:02:49,043 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:49,056 - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2025-04-01 00:02:52,633 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:52,633 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-04-01 00:02:58,804 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:02:58,804 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-04-01 00:03:04,365 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:04,998 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:05,034 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:06,562 - ERROR - Fout bij het verwerken van item Common Whitethroat: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:06,562 - INFO - Start API-aanroep voor item: Greylag Goose
+2025-04-01 00:03:06,681 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:06,681 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:03:06,697 - ERROR - Fout bij het verwerken van item Meadow Pipit: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:06,698 - INFO - Start API-aanroep voor item: Great Black-backed Gull
+2025-04-01 00:03:06,828 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:06,837 - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2025-04-01 00:03:08,346 - ERROR - Fout bij het verwerken van item Great Spotted Woodpecker: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:08,346 - INFO - Start API-aanroep voor item: Rose-ringed Parakeet
+2025-04-01 00:03:08,454 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:08,454 - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2025-04-01 00:03:09,774 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:09,775 - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-04-01 00:03:14,966 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:14,966 - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2025-04-01 00:03:23,019 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:23,682 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:24,247 - ERROR - Fout bij het verwerken van item Greylag Goose: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:24,247 - INFO - Start API-aanroep voor item: Great Egret
+2025-04-01 00:03:24,362 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:24,364 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:03:24,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:25,450 - ERROR - Fout bij het verwerken van item Rose-ringed Parakeet: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:25,465 - INFO - Start API-aanroep voor item: Mistle Thrush
+2025-04-01 00:03:25,599 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:25,601 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-04-01 00:03:25,999 - ERROR - Fout bij het verwerken van item Great Black-backed Gull: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:26,005 - INFO - Start API-aanroep voor item: Stock Dove
+2025-04-01 00:03:26,129 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:26,129 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-04-01 00:03:27,536 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:27,538 - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-04-01 00:03:32,836 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:32,837 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-04-01 00:03:38,454 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:38,510 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:39,396 - ERROR - Fout bij het verwerken van item Stock Dove: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:39,396 - INFO - Start API-aanroep voor item: Common Merganser
+2025-04-01 00:03:39,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:39,541 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2025-04-01 00:03:40,231 - ERROR - Fout bij het verwerken van item Mistle Thrush: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:40,231 - INFO - Start API-aanroep voor item: Dunnock
+2025-04-01 00:03:40,358 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:40,360 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-04-01 00:03:42,432 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:42,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:42,739 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-04-01 00:03:45,252 - ERROR - Fout bij het verwerken van item Great Egret: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:45,252 - INFO - Start API-aanroep voor item: Eurasian Goshawk
+2025-04-01 00:03:45,390 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:45,392 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:03:47,538 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:47,539 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-04-01 00:03:47,859 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:47,860 - ERROR - Fout bij het verwerken van item Common Merganser: Error code: 429 - {'error': {'message': 'Rate limit reached for model `deepseek-r1-distill-qwen-32b` in organization `org_01jbvak2a3facrckc2syxdw4tk` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 6374, Requested 218. Please try again in 5.928999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-04-01 00:03:47,861 - INFO - Start API-aanroep voor item: Common Wood Pigeon
+2025-04-01 00:03:47,937 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:47,939 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-04-01 00:03:54,252 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:54,748 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:54,777 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:03:56,656 - ERROR - Fout bij het verwerken van item Eurasian Goshawk: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:56,656 - INFO - Start API-aanroep voor item: Central European Treecreeper
+2025-04-01 00:03:56,683 - ERROR - Fout bij het verwerken van item Common Wood Pigeon: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:56,684 - INFO - Start API-aanroep voor item: Western Jackdaw ssp soemmerringii
+2025-04-01 00:03:56,789 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:56,791 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:03:56,829 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:56,830 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-04-01 00:03:56,936 - ERROR - Fout bij het verwerken van item Dunnock: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:03:56,937 - INFO - Start API-aanroep voor item: Atlantic Canary
+2025-04-01 00:03:57,054 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:03:57,054 - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2025-04-01 00:04:05,933 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:04:05,935 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-04-01 00:04:05,983 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:04:05,983 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-04-01 00:04:13,365 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:04:13,390 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:04:13,414 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-01 00:04:14,416 - ERROR - Fout bij het verwerken van item Atlantic Canary: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:04:14,417 - INFO - Start API-aanroep voor item: Bar-headed Goose
+2025-04-01 00:04:14,555 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:04:14,557 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-04-01 00:04:14,846 - ERROR - Fout bij het verwerken van item Western Jackdaw ssp soemmerringii: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:04:14,847 - INFO - Start API-aanroep voor item: Red Knot
+2025-04-01 00:04:14,894 - ERROR - Fout bij het verwerken van item Central European Treecreeper: 'NoneType' object has no attribute 'strip'
+2025-04-01 00:04:14,895 - INFO - Start API-aanroep voor item: Eurasian Woodcock
+2025-04-01 00:04:14,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:04:14,984 - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-04-01 00:04:15,011 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:04:15,012 - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-04-01 00:04:16,691 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 00:04:16,693 - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
